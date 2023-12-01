@@ -23,3 +23,5 @@ a
 1개별자료/Network/5. DNS Round Robin 방식.md,9/5/95517c1fb6480bd88e673198c8dd11d293e2f720
 N
 개별자료/DB/1. DB Index.md,7/8/783913213d69878d2085bbb2770f49d46bc0d182
+V
+&개별자료/Network/6. OSI 7 Layer.md,a/e/aeea0bb01e6b4a1b01dfba47055aad1b388b808d
