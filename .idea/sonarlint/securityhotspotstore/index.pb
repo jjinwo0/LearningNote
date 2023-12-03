@@ -35,3 +35,5 @@ _
 /개별자료/Spring/3. Spring vs Spring Boot.md,4/a/4a51c015b5ed5a295467978b0192722d7fa77f82
 T
 $개별자료/DB/2. DB Transaction.md,e/c/ec3c38584aa427d143206457eed0091c8ab9f319
+V
+&개별자료/DB/3. JPQL vs Querydsl.md,4/2/4247636d5fd8d24568f4db69d055b77f05a8bd5a
