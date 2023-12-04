@@ -37,3 +37,7 @@ T
 $개별자료/DB/2. DB Transaction.md,e/c/ec3c38584aa427d143206457eed0091c8ab9f319
 V
 &개별자료/DB/3. JPQL vs Querydsl.md,4/2/4247636d5fd8d24568f4db69d055b77f05a8bd5a
+_
+/개별자료/Network/7. HTTP API와 Resource.md,d/9/d94dc78423fb5aaef41f2c0dc62f9fc2bb02ca3b
+n
+>개별자료/Network/8. HTTP 메서드 : PUT, PATCH, DELETE.md,9/4/94ed91d58da376b0011676d50b9cdc97dae93768
