@@ -43,3 +43,9 @@ n
 >개별자료/Network/8. HTTP 메서드 : PUT, PATCH, DELETE.md,9/4/94ed91d58da376b0011676d50b9cdc97dae93768
 U
 %개별자료/Network/9. Web Socket.md,f/f/ffc412b91e681358657cfb5dcd1c5c923c6cd3a7
+�
+p내 코드가 그렇게 이상한가요?/[7장] [7장] 컬렉션 : 중첩을 제거하는 구조화 테크닉.md,d/6/d666afd27582cdc5718ca2d1b5828f7de8499789
+�
+o내 코드가 그렇게 이상한가요?/[8장] 강한 결합 : 복잡하게 얽혀서 풀 수 없는 구조.md,c/1/c11d4677dd34e2e9dbef7e4b1c0bd062cfa27291
+�
+a내 코드가 그렇게 이상한가요?/[9장] 설계의 건전성을 해치는 여러 악마.md,5/1/519025cbc9fa4e07732747b6dfd7370362fd0369
